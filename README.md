@@ -1,2 +1,2 @@
 # sendMessage
-sendMessage to firoa chatroom 
+sendMessage to chatroom 
