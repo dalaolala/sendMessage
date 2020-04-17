@@ -3,4 +3,4 @@ sendMessage to chatroom
 
 send in this url：
 
-'https://newmessage.sina.pp.ua/send?msg='+ newesttitle +  '&url=' + postUrl
+'https://youdomain.com/send?msg='+ newesttitle +  '&url=' + postUrl
